@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1561509153 source:c:\users\gabri\desktop\negriel\comp\pp\spaceinvaders\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"spaceinvaders.h"
+
+1561508275 c:\users\gabri\desktop\negriel\comp\pp\spaceinvaders\spaceinvaders.h
+
+1561509146 source:c:\users\gabri\desktop\negriel\comp\pp\spaceinvaders\spaceinvaders.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"spaceinvaders.h"
+
+1215461608 c:\users\gabri\desktop\negriel\comp\pp\spaceinvaders\soil.h
+
